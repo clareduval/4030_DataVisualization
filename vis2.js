@@ -200,7 +200,7 @@ root = d3.hierarchy(data)
     .sort((a, b) => b.value - a.value)
     .eachAfter(d => d.index = d.parent ? d.parent.index = d.parent.index + 1 || 0 : 0)
 
-data = FileAttachment("PPP_data_150k_plus.csv").json()
+data = FileAttachment("PPP_data_150k_plus.json").json()
 x = d3.scaleLinear().range([margin.left, width - margin.right])
 xAxis = g => g
     .attr("class", "x-axis")
