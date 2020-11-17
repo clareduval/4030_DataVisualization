@@ -1,0 +1,84 @@
+BusinessType,Range,Count
+,a $5-10 million,11
+,b $2-5 million,56
+,c $1-2 million,146
+,"d $350,000-1 million",509
+,"e $150,000-350,000",707
+Cooperative,a $5-10 million,13
+Cooperative,b $2-5 million,101
+Cooperative,c $1-2 million,231
+Cooperative,"d $350,000-1 million",609
+Cooperative,"e $150,000-350,000",897
+Corporation,a $5-10 million,2005
+Corporation,b $2-5 million,9778
+Corporation,c $1-2 million,21841
+Corporation,"d $350,000-1 million",84075
+Corporation,"e $150,000-350,000",157783
+Employee Stock Ownership Plan(ESOP),a $5-10 million,31
+Employee Stock Ownership Plan(ESOP),b $2-5 million,104
+Employee Stock Ownership Plan(ESOP),c $1-2 million,102
+Employee Stock Ownership Plan(ESOP),"d $350,000-1 million",184
+Employee Stock Ownership Plan(ESOP),"e $150,000-350,000",86
+Independent Contractors,b $2-5 million,3
+Independent Contractors,c $1-2 million,6
+Independent Contractors,"d $350,000-1 million",41
+Independent Contractors,"e $150,000-350,000",107
+Joint Venture,a $5-10 million,1
+Joint Venture,b $2-5 million,8
+Joint Venture,c $1-2 million,1
+Joint Venture,"d $350,000-1 million",24
+Joint Venture,"e $150,000-350,000",42
+Limited  Liability Company(LLC),a $5-10 million,1120
+Limited  Liability Company(LLC),b $2-5 million,5366
+Limited  Liability Company(LLC),c $1-2 million,12263
+Limited  Liability Company(LLC),"d $350,000-1 million",50127
+Limited  Liability Company(LLC),"e $150,000-350,000",103767
+Limited Liability Partnership,a $5-10 million,76
+Limited Liability Partnership,b $2-5 million,297
+Limited Liability Partnership,c $1-2 million,644
+Limited Liability Partnership,"d $350,000-1 million",2439
+Limited Liability Partnership,"e $150,000-350,000",4193
+Non-Profit Childcare Center,a $5-10 million,3
+Non-Profit Childcare Center,b $2-5 million,22
+Non-Profit Childcare Center,c $1-2 million,51
+Non-Profit Childcare Center,"d $350,000-1 million",193
+Non-Profit Childcare Center,"e $150,000-350,000",374
+Non-Profit Organization,a $5-10 million,407
+Non-Profit Organization,b $2-5 million,3226
+Non-Profit Organization,c $1-2 million,5099
+Non-Profit Organization,"d $350,000-1 million",13420
+Non-Profit Organization,"e $150,000-350,000",19667
+Partnership,a $5-10 million,119
+Partnership,b $2-5 million,538
+Partnership,c $1-2 million,1006
+Partnership,"d $350,000-1 million",4108
+Partnership,"e $150,000-350,000",7131
+Professional Association,a $5-10 million,18
+Professional Association,b $2-5 million,142
+Professional Association,c $1-2 million,290
+Professional Association,"d $350,000-1 million",1090
+Professional Association,"e $150,000-350,000",2318
+Rollover as Business Start-Ups (ROB,"d $350,000-1 million",3
+Rollover as Business Start-Ups (ROB,"e $150,000-350,000",1
+Self-Employed Individuals,b $2-5 million,3
+Self-Employed Individuals,c $1-2 million,23
+Self-Employed Individuals,"d $350,000-1 million",142
+Self-Employed Individuals,"e $150,000-350,000",515
+Sole Proprietorship,a $5-10 million,28
+Sole Proprietorship,b $2-5 million,171
+Sole Proprietorship,c $1-2 million,344
+Sole Proprietorship,"d $350,000-1 million",1876
+Sole Proprietorship,"e $150,000-350,000",6355
+Subchapter S Corporation,a $5-10 million,1003
+Subchapter S Corporation,b $2-5 million,5003
+Subchapter S Corporation,c $1-2 million,10938
+Subchapter S Corporation,"d $350,000-1 million",40511
+Subchapter S Corporation,"e $150,000-350,000",74981
+Tenant in Common,c $1-2 million,1
+Tenant in Common,"d $350,000-1 million",6
+Tenant in Common,"e $150,000-350,000",14
+Trust,a $5-10 million,5
+Trust,b $2-5 million,20
+Trust,c $1-2 million,44
+Trust,"d $350,000-1 million",99
+Trust,"e $150,000-350,000",116
