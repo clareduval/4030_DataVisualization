@@ -80,7 +80,7 @@ def main():
     import json
     
     with open('PPP_data_150k_plus.json', 'w') as json_file:
-        json.dump(res, json_file)
+        json.dump(res, json_file, indent=4)
     
     print(json.dumps(res, indent=4))
 
