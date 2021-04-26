@@ -6,7 +6,7 @@ Group members:
 * Brayden Fidler
 * Jeffrey Wang
 
-Link to your website: https://darecluval.github.io
+Link to your website: https://darecluval.github.io (since then repository has been renamed)
 
 Links to your original dataset: https://www.kaggle.com/susuwatari/ppp-loan-data-paycheck-protection-program
 
